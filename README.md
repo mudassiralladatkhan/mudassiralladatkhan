@@ -239,7 +239,7 @@ Online learning platform with course management, progress tracking, and interact
 
 <div align="center">
 
-### 📜 [View All Certifications](https://www.coursera.org/user/yourprofile)
+### 📜 [View All Certifications](https://www.coursera.org/learner/zain-khan-2901)
 
 **Completed:** 20 certifications in (Feb 10-15, 2026) ⚡
 
