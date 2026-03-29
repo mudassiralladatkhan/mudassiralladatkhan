@@ -258,8 +258,8 @@ Online learning platform with course management, progress tracking, and interact
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/> -->
 </p>
 
 <p align="center">
@@ -273,7 +273,7 @@ Online learning platform with course management, progress tracking, and interact
 
 <!-- Trophy Case -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassiralladatkhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/? -->username=mudassiralladatkhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 <!-- Snake eating contributions -->
