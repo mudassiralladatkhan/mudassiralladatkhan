@@ -369,7 +369,7 @@ Online learning platform with course management, progress tracking, and interact
   <a href="https://github.com/mudassiralladatkhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mudassir-alladatkhan-113b12313?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:zainskhan587@gmail.com">
