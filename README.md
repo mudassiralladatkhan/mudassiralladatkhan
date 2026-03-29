@@ -241,7 +241,7 @@ Online learning platform with course management, progress tracking, and interact
 
 ### 📜 [View All Certifications](https://www.coursera.org/user/yourprofile)
 
-**Completed:** 20 certifications in 5 days (Feb 10-15, 2026) ⚡
+**Completed:** 20 certifications in (Feb 10-15, 2026) ⚡
 
 </div>
 
