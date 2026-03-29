@@ -1,32 +1,23 @@
 name: Generate Snake
 
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *" # Every 6 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: mudassiralladatkhan
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
