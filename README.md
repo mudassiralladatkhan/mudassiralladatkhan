@@ -258,6 +258,47 @@ Online learning platform with course management, progress tracking, and interact
 </div>
 
 <p align="center">
+
+  <div align="center">
+
+### 💻 GitHub Statistics & Coding Activity
+
+<table>
+<tr>
+<td width="50%">
+
+**📈 Contribution Stats**
+- 🔥 Current Streak: **206 days**
+- 📊 Total Contributions: **1,964**
+- 🏆 Longest Streak: **206 days**
+- ⭐ Total Stars Earned: **2**
+- 📝 Total Repositories: **38**
+
+</td>
+<td width="50%">
+
+**🎯 Key Metrics**
+- 💻 Most Used Language: **TypeScript**
+- 🚀 Active Projects: **6 Pinned**
+- 🎓 Certifications: **20 Completed**
+- 🏅 HACKAURA: **300+ Participants**
+- ⚡ Coding Sprint: **Feb 10-15, 2026**
+
+</td>
+</tr>
+</table>
+
+### 🏆 Achievement Highlights
+
+<p align="center">
+<img src="https://img.shields.io/badge/Contributions-1,964-00F0FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Streak-206_Days-39FF14?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-38-FF6B35?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Certifications-20-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+</div>
+
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/> -->
 </p>
