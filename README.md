@@ -241,7 +241,7 @@ Online learning platform with course management, progress tracking, and interact
 
 ### 📜 [View All Certifications](https://www.coursera.org/learner/zain-khan-2901)
 
-**Completed:** 20 certifications in (Feb 10-15, 2026) ⚡
+**Completed:** 20 certifications in (Feb ,2026) ⚡
 
 </div>
 
@@ -282,7 +282,7 @@ Online learning platform with course management, progress tracking, and interact
 - 🚀 Active Projects: **6 Pinned**
 - 🎓 Certifications: **20 Completed**
 - 🏅 HACKAURA: **300+ Participants**
-- ⚡ Coding Sprint: **Feb 10-15, 2026**
+- ⚡ Coding Sprint: **Feb , 2026**
 
 </td>
 </tr>
@@ -345,7 +345,7 @@ Online learning platform with course management, progress tracking, and interact
 ### 🎯 Key Achievements
 
 🏆 **HACKAURA 2026 Coordinator** — Organized national hackathon with 300+ participants  
-⚡ **20 Certifications** — Completed in 5-day sprint (AWS, Azure, IBM, Meta, Google)  
+⚡ **20 Certifications** — Completed in 70-days sprint (AWS, Azure, IBM, Meta, Google)  
 🚀 **31 Repositories** — Full-stack projects, AI agents, trading systems  
 🤖 **Agentic AI Specialist** — LangChain, LangGraph, CrewAI, AutoGen certified  
 📈 **Algorithmic Trader** — Building Expert Advisors in MQL5 for MetaTrader 5  
