@@ -8,7 +8,7 @@
 <!-- Typing Animation with Custom Text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Agentic+AI+Specialist+%7C+20+Certifications+Earned;🚀+HACKAURA+2026+Organizer+-+300%2B+Participants;🏆+IEEE+ANVESHAN+Runner-Up+%7C+170%2B+Teams;📈+Algorithmic+Trading+%7C+MQL5+Expert+Advisors;💻+Building+Production+AI+Systems+at+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Agentic+AI+Specialist+%7C+AWS+%26+Azure+Certified;🚀+HACKAURA+2026+Organizer+-+300%2B+Participants;🏆+IEEE+ANVESHAN+Runner-Up+%7C+170%2B+Teams;📈+Algorithmic+Trading+%7C+MQL5+Expert+Advisors;💻+Building+Production+AI+Systems+at+Scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_AIML_Student-5th_Semester-00F0FF?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/🏅_IEEE_Award-Runner--Up-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/📜_Certifications-20_Earned-39FF14?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/📜_Certified-AWS_Azure_IBM-39FF14?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/🌟_GitHub_Stars-2+-FF6B35?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
@@ -49,7 +49,7 @@ const mudassir = {
     recentWins: {
         hackaura2026: "Organized national hackathon (300+ participants, 24 institutions)",
         ieeeAward: "Runner-Up @ ANVESHAN 2025 (170+ teams, ₹10,000 prize)",
-        certSprint: "20 certifications in 5 days (AWS, Azure, IBM, Meta, Google)"
+        certifications: "20 professional certifications (AWS, Azure, IBM, Meta, Google)"
     },
     
     techStack: {
@@ -60,7 +60,7 @@ const mudassir = {
         databases: ["MongoDB", "PostgreSQL", "Supabase"]
     },
     
-    funFact: "Completed 20 professional certifications in 5 days ⚡"
+    funFact: "IEEE Award Winner & Hackathon Organizer with production AI deployments ⚡"
 };
 ```
 
@@ -149,12 +149,8 @@ const mudassir = {
 
 ---
 
-## 📊 Coding Activity (This Week)
+## 📊 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- If WakaTime not set up, use this instead: -->
 ```text
 🌞 Morning                150 commits        ████░░░░░░░░░░░░░░░░░   20%
 🌆 Daytime                280 commits        ████████░░░░░░░░░░░░░   35%
@@ -164,7 +160,7 @@ const mudassir = {
 
 ---
 
-## 🎓 Certifications (20 Total — Earned Feb 2026)
+## 🎓 Certifications (20 Total)
 
 <details>
 <summary>🔵 <b>Cloud & Infrastructure (2)</b></summary>
@@ -189,6 +185,8 @@ const mudassir = {
 - ✅ **Use AI as a Creative or Expert Partner** — Google | [Verify](https://coursera.org/verify/UXIXOTE5VQUR)
 - ✅ **Speed Up Data Analysis and Presentation Building** — Google | [Verify](https://coursera.org/verify/JM8DMITLPDPO)
 - ✅ **Design Prompts for Everyday Work Tasks** — Google | [Verify](https://coursera.org/verify/TXVWIAEEKNCC)
+- ✅ **Foundations of AI and Machine Learning** — Microsoft | [Verify](https://coursera.org/verify/EO8EVKT4KQO8)
+- ✅ **Google Prompt Engineering** — Google | [Verify](https://coursera.org/verify/TBMYA3T0UQ5C)
 
 </details>
 
@@ -244,95 +242,13 @@ const mudassir = {
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Certification Sprint
-**20 Certifications in 5 Days**
-- AWS, Azure, IBM
-- Meta, Google, Amazon
-- Feb 10-15, 2026
-- Agentic AI Specialization
+### 📜 Professional Certifications
+**20 Verified Certifications**
+- AWS Cloud Practitioner
+- Microsoft Azure AI/ML
+- IBM Agentic AI (LangChain, CrewAI)
+- Google Prompt Engineering
+- Meta Frontend Development
 
 </td>
-<td width="50%" valign="top">
-
-### 👨‍💻 Open Source
-**Active Contributor**
-- AspGoat: 2 GitHub Stars
-- Production Deployments
-- 31 Public Repositories
-- Building in Public
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mudassiralladatkhan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00F0FF&ring=39FF14&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=8B8B8B" width="90%" />
-</p>
-
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/demo/daily.svg?user=mudassiralladatkhan&theme=dark" width="90%" />
-</p>
-
----
-
-## 🎵 Currently Vibing To
-
-<!-- Spotify Widget - Replace with your own from https://spotify-github-profile.vercel.app/ -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f0ff&bar_color_cover=true" width="400" />
-</p>
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/mudassiralladatkhan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mudassir-alladatkhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zainskhan587@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mudassirsportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mudassiralladatkhan/mudassiralladatkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-<div align="center">
-
-### ⚡ *"Turning caffeine into code, and code into impact."* ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**Built with 💙 by Mudassir Alladatkhan**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mudassirsportfolio.netlify.app-00F0FF?style=flat-square)](https://mudassirsportfolio.netlify.app)
-[![Resume](https://img.shields.io/badge/Resume-Download-39FF14?style=flat-square)](https://github.com/mudassiralladatkhan)
-
-</div>
+<td width="50%" valign="top
