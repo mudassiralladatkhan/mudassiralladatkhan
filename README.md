@@ -1,254 +1,196 @@
 <div align="center">
 
-<!-- Custom Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MUDASSIR%20ALLADATKHAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%2FML%20Engineer%20%7C%20Building%20The%20Future&descAlignY=52&descAlign=50" width="100%"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Mudassir%20Alladatkhan&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Security%20Researcher&descSize=16&descColor=8b949e&descAlignY=55"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Algorithmic+Trading+with+MQL5+%F0%9F%93%88;Full-Stack+React+%2B+TypeScript+%F0%9F%9A%80;IEEE+Award-Winning+Engineer+%F0%9F%8F%86" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudassir-alladatkhan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudassiralladatkhan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainskhan587@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mudassiralladatkhan.github.io)
 
 </div>
 
-<!-- Typing Animation with Custom Text -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Agentic+AI+Specialist+%7C+AWS+%26+Azure+Certified;🚀+HACKAURA+2026+Organizer+-+300%2B+Participants;🏆+IEEE+ANVESHAN+Runner-Up+%7C+170%2B+Teams;📈+Algorithmic+Trading+%7C+MQL5+Expert+Advisors;💻+Building+Production+AI+Systems+at+Scale" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Badges with Custom Styling -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_AIML_Student-5th_Semester-00F0FF?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🏅_IEEE_Award-Runner--Up-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/📜_Certified-AWS_Azure_IBM-39FF14?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🌟_GitHub_Stars-2+-FF6B35?style=for-the-badge&labelColor=1a1a1a" />
-</p>
-
 ---
 
-<!-- Profile Views Counter with Retro Style -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mudassiralladatkhan&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mudassiralladatkhan?label=Followers&style=for-the-badge&color=39FF14&labelColor=1a1a1a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mudassiralladatkhan?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=1a1a1a" alt="Total Stars" />
-</p>
+## `> whoami`
 
----
-
-## 💫 About Me
-
-```typescript
-const mudassir = {
-    location: "Nipani, Karnataka, India 🇮🇳",
-    education: "B.Tech AIML @ VSMSRKIT (5th Sem)",
-    role: "Full-Stack & AI/ML Engineer",
-    
-    currentFocus: [
-        "🤖 Building Agentic AI Workflows (LangChain, LangGraph, CrewAI)",
-        "📈 Developing Algorithmic Trading Systems (MQL5, MetaTrader 5)",
-        "🔒 Security Research (AspGoat, Penetration Testing)",
-        "🚀 Scaling Production Systems (300+ Concurrent Users)"
-    ],
-    
-    recentWins: {
-        hackaura2026: "Organized national hackathon (300+ participants, 24 institutions)",
-        ieeeAward: "Runner-Up @ ANVESHAN 2025 (170+ teams, ₹10,000 prize)",
-        certifications: "20 professional certifications (AWS, Azure, IBM, Meta, Google)"
-    },
-    
-    techStack: {
-        languages: ["Python", "TypeScript", "JavaScript", "Java", "MQL5", "C#"],
-        aiml: ["LangChain", "LangGraph", "CrewAI", "AutoGen", "TensorFlow"],
-        cloud: ["AWS (CLF-C02)", "Microsoft Azure", "Docker"],
-        web: ["React", "Next.js", "Node.js", "Tailwind CSS"],
-        databases: ["MongoDB", "PostgreSQL", "Supabase"]
-    },
-    
-    funFact: "IEEE Award Winner & Hackathon Organizer with production AI deployments ⚡"
-};
+```yaml
+name: Mudassir Zahoorahmed Alladatkhan
+location: Nipani, Karnataka, India
+education: B.Tech AI/ML @ VSMSRKIT (2027)
+current_focus:
+  - Agentic AI Systems (LangChain, CrewAI, AutoGen)
+  - Algorithmic Trading (MQL5 Expert Advisors)
+  - Full-Stack Development (React, TypeScript, Node.js)
+  - Cybersecurity Research (OWASP, Pentesting)
+achievements:
+  - Runner-Up IEEE ANVESHAN 2025 (Bangalore Section)
+  - Organized HACKAURA 2026 (300+ participants, 24 institutions)
+  - 20 Professional Certifications (AWS, Azure, IBM, Meta, Google)
+  - Built production systems handling 300+ concurrent users
 ```
 
 ---
 
-## 🔥 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassiralladatkhan&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=39FF14&fire=FF6B35&currStreakLabel=00F0FF" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassiralladatkhan&theme=radical&utcOffset=5.5" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassiralladatkhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=39FF14&point=FF6B35&area=true&area_color=00F0FF" width="98%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassiralladatkhan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-</p>
-
----
-
-## 🎯 Featured Projects
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-| Project | Description | Tech Stack | Stars | Status |
-|---------|-------------|------------|-------|--------|
-| **[AspGoat](https://github.com/mudassiralladatkhan/AspGoat)** | 🔒 Intentionally vulnerable ASP.NET Core app for security education | ASP.NET Core, C#, OWASP | ![Stars](https://img.shields.io/github/stars/mudassiralladatkhan/AspGoat?style=social) | ![Status](https://img.shields.io/badge/Active-00FF00?style=flat-square) |
-| **[CivGuard AI](https://github.com/mudassiralladatkhan/civguard-ai-response)** | 🚨 AI-powered emergency response platform | TypeScript, React, AI | ![Stars](https://img.shields.io/github/stars/mudassiralladatkhan/civguard-ai-response?style=social) | ![Status](https://img.shields.io/badge/Active-00FF00?style=flat-square) |
-| **[HACKAURA 2026](https://hackaura.vsmsrkitevents.in)** | 🎓 National hackathon platform (300+ users) | React, TypeScript, Supabase | - | ![Status](https://img.shields.io/badge/Live-00BFFF?style=flat-square) |
-| **[LearnHub](https://github.com/mudassiralladatkhan/learnhub-unlocked-academy)** | 📚 EdTech platform for online learning | TypeScript, React, Node.js | ![Stars](https://img.shields.io/github/stars/mudassiralladatkhan/learnhub-unlocked-academy?style=social) | ![Status](https://img.shields.io/badge/Active-00FF00?style=flat-square) |
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=flat-square&logo=metatrader5&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) |
+| **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Security** | ![OWASP](https://img.shields.io/badge/OWASP-000?style=flat-square&logo=owasp&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏗️ Featured Projects
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs&theme=dark" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&theme=dark" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,postgres,mysql&theme=dark" />
-</p>
-
-### AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graph&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-00F0FF?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
-  <img src="https://img.shields.io/badge/MetaTrader_5-1C1E23?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQL5-FF9900?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-
----
-
-## 📊 Coding Activity
-
-```text
-🌞 Morning                150 commits        ████░░░░░░░░░░░░░░░░░   20%
-🌆 Daytime                280 commits        ████████░░░░░░░░░░░░░   35%
-🌃 Evening                250 commits        ███████░░░░░░░░░░░░░░   32%
-🌙 Night                  100 commits        ███░░░░░░░░░░░░░░░░░░   13%
-```
-
----
-
-## 🎓 Certifications (20 Total)
-
-<details>
-<summary>🔵 <b>Cloud & Infrastructure (2)</b></summary>
-<br>
-
-- ✅ **AWS Cloud Practitioner (CLF-C02)** — KodeKloud | [Verify](https://coursera.org/verify/QZE6NFLXYMID)
-- ✅ **Microsoft Azure for AI and Machine Learning** — Microsoft | [Verify](https://coursera.org/verify/YPCMCA2U90XM)
-
-</details>
-
-<details>
-<summary>🤖 <b>AI & Machine Learning (12)</b></summary>
-<br>
-
-- ✅ **Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI** — IBM | [Verify](https://coursera.org/verify/GTU12BE8F9EH)
-- ✅ **Agentic AI with LangChain and LangGraph** — IBM | [Verify](https://coursera.org/verify/OE3XW0K80667)
-- ✅ **Fundamentals of Building AI Agents** — IBM | [Verify](https://coursera.org/verify/G4MXYVJZFG0P)
-- ✅ **Advanced AI and Machine Learning Techniques and Capstone** — Microsoft | [Verify](https://coursera.org/verify/AO069AABPH6B)
-- ✅ **Foundations of AI and Machine Learning** — Microsoft | [Verify](https://coursera.org/verify/EO8EVKT4KQO8)
-- ✅ **Building Intelligent Troubleshooting Agents** — Microsoft | [Verify](https://coursera.org/verify/2N4IM32E52DM)
-- ✅ **Start Writing Prompts like a Pro (Prompt Engineering)** — Google | [Verify](https://coursera.org/verify/TBMYA3T0UQ5C)
-- ✅ **Use AI as a Creative or Expert Partner** — Google | [Verify](https://coursera.org/verify/UXIXOTE5VQUR)
-- ✅ **Speed Up Data Analysis and Presentation Building** — Google | [Verify](https://coursera.org/verify/JM8DMITLPDPO)
-- ✅ **Design Prompts for Everyday Work Tasks** — Google | [Verify](https://coursera.org/verify/TXVWIAEEKNCC)
-- ✅ **Foundations of AI and Machine Learning** — Microsoft | [Verify](https://coursera.org/verify/EO8EVKT4KQO8)
-- ✅ **Google Prompt Engineering** — Google | [Verify](https://coursera.org/verify/TBMYA3T0UQ5C)
-
-</details>
-
-<details>
-<summary>🌐 <b>Frontend Development - Meta (5)</b></summary>
-<br>
-
-- ✅ **React Basics** — Meta | [Verify](https://coursera.org/verify/E1II8PYBG9I5)
-- ✅ **HTML and CSS in Depth** — Meta | [Verify](https://coursera.org/verify/6D6C8BNPMFX7)
-- ✅ **Programming with JavaScript** — Meta | [Verify](https://coursera.org/verify/3DDTKGG70Y2U)
-- ✅ **Introduction to Front-End Development** — Meta | [Verify](https://coursera.org/verify/VFTTY9OP68JU)
-- ✅ **Version Control** — Meta | [Verify](https://coursera.org/verify/MUR6VOF81EXX)
-
-</details>
-
-<details>
-<summary>💻 <b>CS Fundamentals - Amazon (3)</b></summary>
-<br>
-
-- ✅ **Data Structures and Algorithms** — Amazon | [Verify](https://coursera.org/verify/T527BB2AP2IP)
-- ✅ **Programming with Java** — Amazon | [Verify](https://coursera.org/verify/STUFZ0IW0DNC)
-- ✅ **Introduction to Software Development** — Amazon | [Verify](https://coursera.org/verify/3XX8P4BPO1GY)
-
-</details>
-
----
-
-## 🏅 Achievements & Awards
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥈 IEEE ANVESHAN 2025
-**Runner-Up (2nd Prize)**
-- Hardware - Healthcare Technology Track
-- Rs. 10,000 Prize
-- 170+ Competing Teams
-- IEEE Bangalore Section SAC
+### 🔒 [AspGoat](https://github.com/mudassiralladatkhan/AspGoat)
+Intentionally vulnerable ASP.NET Core application for hands-on security education. Covers 10+ OWASP vulnerability categories.
+
+`ASP.NET Core` `C#` `Docker` `OWASP` ⭐ 22
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 HACKAURA 2026
-**Lead Organizer**
-- 24-hour National Hackathon
-- 300+ Participants
-- 83 Teams
-- 24 Institutions Across India
+### 🎯 [Hackaura 2026](https://github.com/mudassiralladatkhan/Hackaura)
+Official hackathon platform for a 24-hour national event. Real-time registrations, team management, and live event coordination for 300+ participants.
+
+`React` `TypeScript` `Supabase` `Tailwind`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📜 Professional Certifications
-**20 Verified Certifications**
-- AWS Cloud Practitioner
-- Microsoft Azure AI/ML
-- IBM Agentic AI (LangChain, CrewAI)
-- Google Prompt Engineering
-- Meta Frontend Development
+### 🗣️ [SayAi](https://github.com/mudassiralladatkhan/SayAi)
+Voice-first AI life assistant for Indian users. Task scheduling, voice journaling, AI conversations, and smart reminders with multilingual support.
+
+`Flutter` `Firebase` `Groq/LLaMA 3` `Razorpay`
 
 </td>
-<td width="50%" valign="top
+<td width="50%" valign="top">
+
+### 🚨 [CivGuard AI](https://github.com/mudassiralladatkhan/civguard-ai-response)
+AI-powered emergency response platform for real-time disaster management and crisis coordination with automated resource allocation.
+
+`React` `TypeScript` `Supabase` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Neuraband](https://github.com/mudassiralladatkhan/Neuraband)
+Real-time wearable health monitoring dashboard with ECG/PPG/IMU signal processing, stress detection, and edge-AI inference.
+
+`React` `ECharts` `Supabase` `TFLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍯 [Honey_pot](https://github.com/mudassiralladatkhan/Honey_pot)
+Agentic AI honeypot that engages phone scammers in realistic conversations, extracts intelligence (UPI, bank accounts), and wastes their time.
+
+`FastAPI` `Groq` `AI Agents` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [RuralX-AI](https://github.com/mudassiralladatkhan/RuralX-AI)
+Offline-capable AI diagnostic system for rural healthcare. Chest X-ray analysis with Grad-CAM explainability and multilingual reports.
+
+`PyTorch` `Flask` `Computer Vision` `XAI`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [LearnHub Academy](https://github.com/mudassiralladatkhan/learnhub-unlocked-academy)
+Full-stack EdTech platform with course management, progress tracking, interactive content delivery, and student analytics.
+
+`React` `TypeScript` `Supabase` `Recharts`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mudassiralladatkhan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassiralladatkhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true"/>
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Provider | Certifications |
+|----------|---------------|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Cloud Practitioner (CLF-C02) |
+| ![Azure](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Azure AI/ML, Advanced AI Techniques, Intelligent Troubleshooting Agents |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | Agentic AI (LangGraph, CrewAI, AutoGen, BeeAI), Building AI Agents |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | Prompt Engineering, AI Creative Partner, Data Analysis |
+| ![Meta](https://img.shields.io/badge/Meta-0668E1?style=flat-square&logo=meta&logoColor=white) | React, JavaScript, HTML/CSS, Front-End Development, Version Control |
+| ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white) | DSA, Java Programming, Software Development |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mudassiralladatkhan/mudassiralladatkhan/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Together
+
+<img src="https://komarev.com/ghpvc/?username=mudassiralladatkhan&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS"/>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
