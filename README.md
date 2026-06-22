@@ -138,23 +138,39 @@ Full-stack EdTech platform with course management, progress tracking, interactiv
 
 ---
 
+## 🌍 Open Source Contributions
+
+Recent contributions to the wider open-source ecosystem — real fixes, features, and tests on projects I use and believe in.
+
+<div align="center">
+
+| Project | Contribution | Type |
+|---------|-------------|------|
+| [**temporalio/ui**](https://github.com/temporalio/ui/pull/3582) | Fixed logout to call the `/auth/logout` endpoint so the refresh cookie is properly cleared (was client-side nav only) + unit tests | 🔐 Bug fix |
+| [**jo-duchan/tapflow**](https://github.com/jo-duchan/tapflow/pull/327) | Added per-step setup state reporting (`found` / `created` / `repaired`) so the CLI distinguishes what changed from what was already present | ✨ Feature |
+| [**symptom-scribe**](https://github.com/mohdmaazgani/symptom-scribe-clean/pull/462) | Added a unit-test suite for the startup environment-validation module (covers missing vars, legacy fallback, edge cases) | 🧪 Tests |
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassiralladatkhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&v=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassiralladatkhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&v=6"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mudassiralladatkhan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mudassiralladatkhan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&v=6"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassiralladatkhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassiralladatkhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true&v=6"/>
 </div>
 
 ---
