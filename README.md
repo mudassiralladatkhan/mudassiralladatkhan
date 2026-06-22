@@ -188,13 +188,6 @@ Full-stack EdTech platform with course management, progress tracking, interactiv
 
 <br/>
 
-<!-- ░░ Trophies ░░ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassiralladatkhan&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&v=8"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassiralladatkhan&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6e40&area=true&area_color=58a6ff&hide_border=true&v=8"/>
 </div>
@@ -223,7 +216,7 @@ Full-stack EdTech platform with course management, progress tracking, interactiv
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mudassiralladatkhan/mudassiralladatkhan/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mudassiralladatkhan/mudassiralladatkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
