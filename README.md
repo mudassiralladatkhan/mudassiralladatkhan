@@ -162,11 +162,12 @@ Full-stack EdTech platform with course management, progress tracking, interactiv
 
 <div align="center">
 
-| Project | Contribution | Type |
-|---------|-------------|------|
-| [**temporalio/ui**](https://github.com/temporalio/ui/pull/3582) | Fixed logout to call the `/auth/logout` endpoint so the refresh cookie is properly cleared (was client-side nav only) + unit tests | 🔐 Bug fix |
-| [**jo-duchan/tapflow**](https://github.com/jo-duchan/tapflow/pull/327) | Added per-step setup state reporting (`found` / `created` / `repaired`) so the CLI distinguishes what changed from what was already present | ✨ Feature |
-| [**symptom-scribe**](https://github.com/mohdmaazgani/symptom-scribe-clean/pull/462) | Added a unit-test suite for the startup environment-validation module (missing vars, legacy fallback, edge cases) | 🧪 Tests |
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| [**jo-duchan/tapflow**](https://github.com/jo-duchan/tapflow/pull/327) | Added per-step setup state reporting (`found` / `created` / `repaired`) so the CLI distinguishes what changed from what was already present, with regression tests | 🟣 Merged |
+| [**mohdmaazgani/symptom-scribe**](https://github.com/mohdmaazgani/symptom-scribe-clean/pull/462) | Added a unit-test suite for the startup environment-validation module (missing vars, legacy fallback, env isolation) | 🟢 Approved |
+| [**terrapower/armi**](https://github.com/terrapower/armi/pull/2561) | Expanded the Entry Points user guide — concept intro, command discovery (`armi -l`, `--help`), and cross-links to the developer docs | 🟢 Open |
+| [**temporalio/ui**](https://github.com/temporalio/ui/pull/3582) | Logout fix to hit the `/auth/logout` endpoint so the server clears session cookies — approach adopted by maintainers into [#3590](https://github.com/temporalio/ui/pull/3590) | 🔵 Adopted upstream |
 
 </div>
 
